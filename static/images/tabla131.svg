@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1680" viewBox="0 0 2400 1680" role="img" aria-label="Impactos positivos y negativos de la universidad a nivel interno y externo">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7FBFA"/><stop offset="1" stop-color="#FFF8EF"/></linearGradient>
+<linearGradient id="head" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#235B4E"/><stop offset="1" stop-color="#1D3B70"/></linearGradient>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#244" flood-opacity="0.12"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<circle cx="80" cy="80" r="90" fill="#DDEFEA" opacity="0.8"/>
+<circle cx="2290" cy="1540" r="160" fill="#E9F2FF" opacity="0.8"/>
+<circle cx="2150" cy="95" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2150" cy="123" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2150" cy="151" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2150" cy="179" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2178" cy="95" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2178" cy="123" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2178" cy="151" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2178" cy="179" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2206" cy="95" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2206" cy="123" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2206" cy="151" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2206" cy="179" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2234" cy="95" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2234" cy="123" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2234" cy="151" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2234" cy="179" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2262" cy="95" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2262" cy="123" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2262" cy="151" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="2262" cy="179" r="5" fill="#BC955C" opacity="0.45"/>
+<circle cx="80" cy="1440" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="80" cy="1468" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="80" cy="1496" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="80" cy="1524" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="108" cy="1440" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="108" cy="1468" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="108" cy="1496" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="108" cy="1524" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="136" cy="1440" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="136" cy="1468" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="136" cy="1496" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="136" cy="1524" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="164" cy="1440" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="164" cy="1468" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="164" cy="1496" r="5" fill="#235B4E" opacity="0.38"/>
+<circle cx="164" cy="1524" r="5" fill="#235B4E" opacity="0.38"/>
+<text x="1200.0" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#0B2A4A">Impactos positivos y negativos de la universidad a nivel interno y externo</text>
+<line x1="680.0" y1="118" x2="1720.0" y2="118" stroke="#235B4E" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+<circle cx="1200.0" cy="118" r="10" fill="#BC955C"/>
+<rect x="70" y="210" width="2260" height="1332" rx="28" fill="#FFFFFF" filter="url(#shadow)"/>
+<rect x="70" y="210" width="2260" height="82" rx="28" fill="url(#head)"/>
+<rect x="70" y="264" width="2260" height="28" fill="url(#head)"/>
+<text x="88" y="244" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Nivel de impacto</text>
+<line x1="420" y1="210" x2="420" y2="1542" stroke="#CAD7D6" stroke-width="2"/>
+<text x="438" y="244" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Impactos positivos</text>
+<line x1="890" y1="210" x2="890" y2="1542" stroke="#CAD7D6" stroke-width="2"/>
+<text x="908" y="244" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Ejemplos positivos</text>
+<line x1="1420" y1="210" x2="1420" y2="1542" stroke="#CAD7D6" stroke-width="2"/>
+<text x="1438" y="244" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Impactos negativos</text>
+<line x1="1890" y1="210" x2="1890" y2="1542" stroke="#CAD7D6" stroke-width="2"/>
+<text x="1908" y="244" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Ejemplos negativos</text>
+<rect x="70" y="292" width="2260" height="125" fill="#F3FAF8" opacity="0.96"/>
+<line x1="70" y1="292" x2="2330" y2="292" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="310" width="98" height="28" rx="14" fill="#235B4E"/>
+<text x="137" y="331" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">INTERNO</text>
+<text x="88" y="368" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">formación estudiantil</text>
+<text x="438" y="324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Formación de estudiantes con</text>
+<text x="438" y="351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">pensamiento crítico, sensibilidad</text>
+<text x="438" y="378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">social, ética profesional y compromiso</text>
+<text x="438" y="405" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">con el bien común.</text>
+<text x="908" y="324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Incorporar proyectos de aprendizaje-servicio,</text>
+<text x="908" y="351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">análisis de problemas reales, ética aplicada</text>
+<text x="908" y="378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">y trabajo comunitario en las asignaturas.</text>
+<text x="1438" y="324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Formación limitada a competencias</text>
+<text x="1438" y="351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">técnicas o profesionales sin reflexión</text>
+<text x="1438" y="378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">ética ni responsabilidad social.</text>
+<text x="1908" y="324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Egresar profesionistas altamente</text>
+<text x="1908" y="351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">capacitados, pero indiferentes ante</text>
+<text x="1908" y="378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">la desigualdad, la exclusión o el</text>
+<text x="1908" y="405" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">deterioro ambiental.</text>
+<rect x="70" y="417" width="2260" height="125" fill="#F3FAF8" opacity="0.7"/>
+<line x1="70" y1="417" x2="2330" y2="417" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="435" width="98" height="28" rx="14" fill="#235B4E"/>
+<text x="137" y="456" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">INTERNO</text>
+<text x="88" y="493" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">vida institucional y</text>
+<text x="88" y="520" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">convivencia</text>
+<text x="438" y="449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Construcción de una comunidad</text>
+<text x="438" y="476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">universitaria incluyente, democrática,</text>
+<text x="438" y="503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">participativa y respetuosa de la</text>
+<text x="438" y="530" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">diversidad.</text>
+<text x="908" y="449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Políticas de inclusión, equidad de género,</text>
+<text x="908" y="476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">atención a estudiantes en situación de</text>
+<text x="908" y="503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">vulnerabilidad y espacios de participación</text>
+<text x="908" y="530" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">estudiantil.</text>
+<text x="1438" y="449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Reproducción de prácticas autoritarias,</text>
+<text x="1438" y="476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">discriminatorias, burocráticas o</text>
+<text x="1438" y="503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">excluyentes dentro de la institución.</text>
+<text x="1908" y="449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Trato desigual entre estudiantes,</text>
+<text x="1908" y="476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">docentes o personal administrativo;</text>
+<text x="1908" y="503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">ausencia de mecanismos de escucha o</text>
+<text x="1908" y="530" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">denuncia.</text>
+<rect x="70" y="542" width="2260" height="125" fill="#F3FAF8" opacity="0.96"/>
+<line x1="70" y1="542" x2="2330" y2="542" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="560" width="98" height="28" rx="14" fill="#235B4E"/>
+<text x="137" y="581" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">INTERNO</text>
+<text x="88" y="618" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">gestión universitaria</text>
+<text x="438" y="574" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Gestión transparente, responsable y</text>
+<text x="438" y="601" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">coherente con los valores</text>
+<text x="438" y="628" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">institucionales.</text>
+<text x="908" y="574" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Rendición de cuentas, evaluación de impactos,</text>
+<text x="908" y="601" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">balances sociales, indicadores de</text>
+<text x="908" y="628" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sostenibilidad y participación de actores</text>
+<text x="908" y="655" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">internos.</text>
+<text x="1438" y="574" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Falta de transparencia, simulación</text>
+<text x="1438" y="601" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">institucional o decisiones tomadas sin</text>
+<text x="1438" y="628" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">participación de la comunidad</text>
+<text x="1438" y="655" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">universitaria.</text>
+<text x="1908" y="574" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Programas de RSU sólo discursivos,</text>
+<text x="1908" y="601" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sin evaluación real ni seguimiento de</text>
+<text x="1908" y="628" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">resultados.</text>
+<rect x="70" y="667" width="2260" height="125" fill="#F3FAF8" opacity="0.7"/>
+<line x1="70" y1="667" x2="2330" y2="667" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="685" width="98" height="28" rx="14" fill="#235B4E"/>
+<text x="137" y="706" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">INTERNO</text>
+<text x="88" y="743" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">producción de</text>
+<text x="88" y="770" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">conocimiento</text>
+<text x="438" y="699" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Investigación pertinente,</text>
+<text x="438" y="726" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">interdisciplinaria y orientada a</text>
+<text x="438" y="753" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">problemas sociales relevantes.</text>
+<text x="908" y="699" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Proyectos sobre violencia, salud comunitaria,</text>
+<text x="908" y="726" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sostenibilidad, educación, derechos humanos o</text>
+<text x="908" y="753" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">desigualdad territorial.</text>
+<text x="1438" y="699" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Producción académica desconectada de</text>
+<text x="1438" y="726" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">las necesidades sociales o centrada</text>
+<text x="1438" y="753" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sólo en intereses individuales,</text>
+<text x="1438" y="780" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">rankings o productividad.</text>
+<text x="1908" y="699" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Investigaciones que sólo buscan</text>
+<text x="1908" y="726" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">publicaciones, sin retorno social ni</text>
+<text x="1908" y="753" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">vínculo con comunidades afectadas.</text>
+<rect x="70" y="792" width="2260" height="125" fill="#FFF9F0" opacity="0.96"/>
+<line x1="70" y1="792" x2="2330" y2="792" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="810" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="831" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="868" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">relación con la sociedad</text>
+<text x="438" y="824" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Vinculación solidaria, horizontal y</text>
+<text x="438" y="851" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">corresponsable con comunidades,</text>
+<text x="438" y="878" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">instituciones y organizaciones</text>
+<text x="438" y="905" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sociales.</text>
+<text x="908" y="824" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Diagnósticos participativos, proyectos</text>
+<text x="908" y="851" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">comunitarios, asesorías técnicas,</text>
+<text x="908" y="878" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">colaboración con colectivos y gobiernos</text>
+<text x="908" y="905" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">locales.</text>
+<text x="1438" y="824" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Relación vertical, asistencialista o</text>
+<text x="1438" y="851" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">extractiva con la sociedad.</text>
+<text x="1908" y="824" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">La universidad “interviene”</text>
+<text x="1908" y="851" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">comunidades sin escuchar sus</text>
+<text x="1908" y="878" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">necesidades ni reconocer sus saberes.</text>
+<rect x="70" y="917" width="2260" height="125" fill="#FFF9F0" opacity="0.7"/>
+<line x1="70" y1="917" x2="2330" y2="917" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="935" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="956" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="993" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">desarrollo social y</text>
+<text x="88" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">territorial</text>
+<text x="438" y="949" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Contribución a la solución de problemas</text>
+<text x="438" y="976" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">públicos y al desarrollo humano</text>
+<text x="438" y="1003" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sostenible.</text>
+<text x="908" y="949" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Proyectos para reducir desigualdad educativa,</text>
+<text x="908" y="976" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">fortalecer salud comunitaria, mejorar</text>
+<text x="908" y="1003" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">convivencia o atender problemáticas</text>
+<text x="908" y="1030" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">ambientales.</text>
+<text x="1438" y="949" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Acciones poco pertinentes que no</text>
+<text x="1438" y="976" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">responden al contexto cultural, social</text>
+<text x="1438" y="1003" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">o territorial.</text>
+<text x="1908" y="949" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Programas diseñados desde la</text>
+<text x="1908" y="976" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">universidad sin considerar las</text>
+<text x="1908" y="1003" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">condiciones reales del territorio.</text>
+<rect x="70" y="1042" width="2260" height="125" fill="#FFF9F0" opacity="0.96"/>
+<line x1="70" y1="1042" x2="2330" y2="1042" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="1060" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="1081" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="1118" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">interculturalidad y</text>
+<text x="88" y="1145" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">diversidad</text>
+<text x="438" y="1074" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Reconocimiento de saberes culturales,</text>
+<text x="438" y="1101" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">lingüísticos, territoriales y</text>
+<text x="438" y="1128" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">comunitarios.</text>
+<text x="908" y="1074" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Diálogo con pueblos originarios,</text>
+<text x="908" y="1101" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">incorporación de saberes locales, proyectos</text>
+<text x="908" y="1128" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">culturalmente pertinentes y espacios</text>
+<text x="908" y="1155" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">interculturales.</text>
+<text x="1438" y="1074" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Invisibilización de saberes no</text>
+<text x="1438" y="1101" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">académicos o imposición de modelos</text>
+<text x="1438" y="1128" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">externos.</text>
+<text x="1908" y="1074" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Proyectos que desvalorizan lenguas,</text>
+<text x="1908" y="1101" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">memorias, prácticas culturales o</text>
+<text x="1908" y="1128" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">formas comunitarias de organización.</text>
+<rect x="70" y="1167" width="2260" height="125" fill="#FFF9F0" opacity="0.7"/>
+<line x1="70" y1="1167" x2="2330" y2="1167" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="1185" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="1206" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="1243" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">ambiente y</text>
+<text x="88" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">sostenibilidad</text>
+<text x="438" y="1199" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Promoción de prácticas sostenibles</text>
+<text x="438" y="1226" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">dentro y fuera del campus.</text>
+<text x="908" y="1199" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Gestión responsable de residuos, ahorro de</text>
+<text x="908" y="1226" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">agua y energía, proyectos ambientales con</text>
+<text x="908" y="1253" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">comunidades, educación para la</text>
+<text x="908" y="1280" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sostenibilidad.</text>
+<text x="1438" y="1199" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Impactos ambientales negativos</text>
+<text x="1438" y="1226" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">derivados de la operación universitaria</text>
+<text x="1438" y="1253" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">o de proyectos mal diseñados.</text>
+<text x="1908" y="1199" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Consumo excesivo de recursos,</text>
+<text x="1908" y="1226" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">generación de residuos, expansión de</text>
+<text x="1908" y="1253" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">infraestructura sin criterios</text>
+<text x="1908" y="1280" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">ambientales.</text>
+<rect x="70" y="1292" width="2260" height="125" fill="#FFF9F0" opacity="0.96"/>
+<line x1="70" y1="1292" x2="2330" y2="1292" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="1310" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="1331" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="1368" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">transferencia de</text>
+<text x="88" y="1395" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">conocimiento y</text>
+<text x="88" y="1422" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">tecnología</text>
+<text x="438" y="1324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Aplicación socialmente útil de</text>
+<text x="438" y="1351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">conocimientos científicos,</text>
+<text x="438" y="1378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">tecnológicos, artísticos y</text>
+<text x="438" y="1405" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">humanísticos.</text>
+<text x="908" y="1324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Desarrollo de tecnologías accesibles,</text>
+<text x="908" y="1351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">materiales educativos, campañas culturales,</text>
+<text x="908" y="1378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">observatorios sociales o propuestas de</text>
+<text x="908" y="1405" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">política pública.</text>
+<text x="1438" y="1324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Transferencia de conocimiento orientada</text>
+<text x="1438" y="1351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sólo al mercado o sin criterios éticos.</text>
+<text x="1908" y="1324" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Innovaciones que benefician sólo a</text>
+<text x="1908" y="1351" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">ciertos sectores y profundizan</text>
+<text x="1908" y="1378" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">brechas sociales o digitales.</text>
+<rect x="70" y="1417" width="2260" height="125" fill="#FFF9F0" opacity="0.7"/>
+<line x1="70" y1="1417" x2="2330" y2="1417" stroke="#D8E0DF" stroke-width="2"/>
+<rect x="88" y="1435" width="98" height="28" rx="14" fill="#BC955C"/>
+<text x="137" y="1456" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EXTERNO</text>
+<text x="88" y="1493" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">cultura democrática y</text>
+<text x="88" y="1520" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#0B2A4A">participación</text>
+<text x="438" y="1449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Fortalecimiento de la ciudadanía, la</text>
+<text x="438" y="1476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">cultura de paz, la cooperación y la</text>
+<text x="438" y="1503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">participación social.</text>
+<text x="908" y="1449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Foros públicos, mesas de diálogo, proyectos</text>
+<text x="908" y="1476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">con organizaciones civiles y acciones de</text>
+<text x="908" y="1503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">formación ciudadana.</text>
+<text x="1438" y="1449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Debilitamiento del vínculo universidad-</text>
+<text x="1438" y="1476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">sociedad por aislamiento académico o</text>
+<text x="1438" y="1503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">falta de escucha.</text>
+<text x="1908" y="1449" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">Universidad encerrada en sí misma,</text>
+<text x="1908" y="1476" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">con poca presencia territorial y baja</text>
+<text x="1908" y="1503" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#17324D">participación comunitaria.</text>
+<rect x="70" y="1590" width="2260" height="86" rx="24" fill="#0B2A4A" opacity="0.96"/>
+<text x="112" y="1625" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">Clave metodológica:</text>
+<text x="390" y="1625" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF">potenciar impactos positivos, prevenir los negativos y evaluar sus efectos con participación de la comunidad.</text>
+<text x="112" y="1658" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#BFE2D9">RSU · pertinencia social · inclusión · sostenibilidad · rendición de cuentas</text>
+<rect x="70" y="210" width="2260" height="1332" rx="28" fill="none" stroke="#235B4E" stroke-width="3" opacity="0.55"/>
+</svg>
