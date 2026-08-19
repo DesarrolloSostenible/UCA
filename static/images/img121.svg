@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#0B2B5A" flood-opacity="0.12"/></filter>
+</defs>
+<rect x="0" y="0" width="1672" height="941" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1" class=""/>
+<circle cx="1630" cy="0" r="120" fill="#EAF4FF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1510" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1510" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1510" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1510" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1510" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1522" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1522" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1522" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1522" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1522" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1534" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1534" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1534" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1534" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1534" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1546" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1546" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1546" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1546" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1546" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1558" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1558" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1558" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1558" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1558" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1570" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1570" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1570" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1570" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1570" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1582" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1582" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1582" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1582" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1582" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1594" cy="45" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1594" cy="57" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1594" cy="69" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1594" cy="81" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1594" cy="93" r="2.6" fill="#A7CEEF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="12" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="26" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="40" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="54" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="68" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="82" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="770" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="784" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="798" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="812" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="826" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="96" cy="840" r="2.5" fill="#B9DBF5" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M0 835 C45 800,80 805,96 850 C118 915,25 945,0 941 Z" fill="#E5F4F6"/>
+<ellipse cx="35" cy="860" rx="11" ry="26" fill="#6EA7C9" transform="rotate(45 35 860)" opacity="0.8"/>
+<ellipse cx="65" cy="835" rx="11" ry="26" fill="#6EA7C9" transform="rotate(45 65 835)" opacity="0.8"/>
+<ellipse cx="84" cy="882" rx="11" ry="26" fill="#6EA7C9" transform="rotate(45 84 882)" opacity="0.8"/>
+<ellipse cx="50" cy="910" rx="11" ry="26" fill="#6EA7C9" transform="rotate(45 50 910)" opacity="0.8"/>
+<ellipse cx="93" cy="920" rx="11" ry="26" fill="#6EA7C9" transform="rotate(45 93 920)" opacity="0.8"/>
+<path d="M1510 860 C1580 800,1650 840,1672 810 L1672 941 L1510 941 Z" fill="#EAF4FF"/>
+<ellipse cx="1540" cy="875" rx="10" ry="25" fill="#6EA7C9" transform="rotate(-50 1540 875)" opacity="0.75"/>
+<ellipse cx="1580" cy="852" rx="10" ry="25" fill="#6EA7C9" transform="rotate(-50 1580 852)" opacity="0.75"/>
+<ellipse cx="1625" cy="875" rx="10" ry="25" fill="#6EA7C9" transform="rotate(-50 1625 875)" opacity="0.75"/>
+<ellipse cx="1595" cy="915" rx="10" ry="25" fill="#6EA7C9" transform="rotate(-50 1595 915)" opacity="0.75"/>
+<ellipse cx="1650" cy="918" rx="10" ry="25" fill="#6EA7C9" transform="rotate(-50 1650 918)" opacity="0.75"/>
+<circle cx="82" cy="76" r="58" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M48 54 L82 37 L116 54 L82 71 Z" fill="white"/>
+<path d="M57 65 L57 88 Q82 105 107 88 L107 65" fill="none" stroke="white" stroke-width="8" stroke-linecap="round"/>
+<path d="M54 93 Q65 117 82 117 Q99 117 110 93" fill="none" stroke="white" stroke-width="7" stroke-linecap="round"/>
+<text x="190" y="52" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#09285F" font-weight="800" text-anchor="start" >
+<tspan x="190" dy="0">Aplicación de saberes provenientes de distintas</tspan>
+<tspan x="190" dy="47.52">fuentes científicas, tecnológicas, artísticas y humanísticas</tspan>
+</text>
+<text x="190" y="139" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#4C566A" font-weight="400" text-anchor="start" >
+<tspan x="190" dy="0">Integrar conocimientos diversos para responder a problemas sociales con responsabilidad ética</tspan>
+</text>
+<rect x="36" y="180" width="282" height="540" rx="18" fill="#FFFFFF" stroke="#0B4EA2" stroke-width="2.5" opacity="1" class="panel"/>
+<circle cx="177.0" cy="179" r="27" fill="#0B4EA2" stroke="white" stroke-width="4" opacity="1"/>
+<text x="177.0" y="188" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="177.0" dy="0">1</tspan>
+</text>
+<text x="177.0" y="235" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0B4EA2" font-weight="800" text-anchor="middle" >
+<tspan x="177.0" dy="0">Problema social</tspan>
+</text>
+<circle cx="177.0" cy="330" r="60" fill="#F3FAFF" stroke="#0B4EA2" stroke-width="3" opacity="1"/>
+<rect x="143" y="278" width="28" height="34" rx="3" fill="#87BDEB" stroke="none" stroke-width="1" opacity="1" class=""/>
+<rect x="170" y="262" width="28" height="50" rx="3" fill="#87BDEB" stroke="none" stroke-width="1" opacity="1" class=""/>
+<rect x="199" y="274" width="28" height="38" rx="3" fill="#87BDEB" stroke="none" stroke-width="1" opacity="1" class=""/>
+<rect x="226" y="254" width="28" height="58" rx="3" fill="#87BDEB" stroke="none" stroke-width="1" opacity="1" class=""/>
+<path d="M132 334 C142 305,164 308,175 334 Z" fill="#2E8ED6"/>
+<circle cx="177.0" cy="340.0" r="7.0" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 164.0 362.0 Q 177.0 345.0 190.0 362.0 Z" fill="#0B4EA2"/>
+<circle cx="159.0" cy="346.0" r="5.6000000000000005" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 148.6 363.6 Q 159.0 350.0 169.4 363.6 Z" fill="#0B4EA2"/>
+<circle cx="195.0" cy="346.0" r="5.6000000000000005" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 184.6 363.6 Q 195.0 350.0 205.4 363.6 Z" fill="#0B4EA2"/>
+<text x="177.0" y="405" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1B1B1B" font-weight="400" text-anchor="middle" >
+<tspan x="177.0" dy="0">La universidad identifica</tspan>
+<tspan x="177.0" dy="24.3">necesidades reales del entorno.</tspan>
+</text>
+<line x1="76" y1="453" x2="278" y2="453" stroke="#68A4E4" stroke-width="2" opacity="1" stroke-dasharray="4 5"/>
+<text x="177.0" y="482" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#0B4EA2" font-weight="700" text-anchor="middle" >
+<tspan x="177.0" dy="0">Ejemplos de problemas</tspan>
+</text>
+<path d="M63 500 L79 500 L75 492 M79 500 Q91 513 79 525" fill="none" stroke="#4E9A28" stroke-width="4" stroke-linecap="round"/>
+<path d="M82 525 L67 525 L71 533 M67 525 Q56 513 67 500" fill="none" stroke="#4E9A28" stroke-width="4" stroke-linecap="round"/>
+<text x="100" y="520" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222" font-weight="400" text-anchor="start" >
+<tspan x="100" dy="0">residuos y cuidado ambiental</tspan>
+</text>
+<circle cx="72" cy="570" r="17" fill="#F7F3FF" stroke="#6E3DA8" stroke-width="2" opacity="1"/>
+<circle cx="72" cy="570.2" r="3.36" fill="#6E3DA8" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 65.76 580.76 Q 72 572.6 78.24 580.76 Z" fill="#6E3DA8"/>
+<circle cx="63.36" cy="573.0799999999999" r="2.688" fill="#6E3DA8" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 58.368 581.5279999999999 Q 63.36 575.0 68.352 581.5279999999999 Z" fill="#6E3DA8"/>
+<circle cx="80.64" cy="573.0799999999999" r="2.688" fill="#6E3DA8" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 75.648 581.5279999999999 Q 80.64 575.0 85.632 581.5279999999999 Z" fill="#6E3DA8"/>
+<text x="100" y="576" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222" font-weight="400" text-anchor="start" >
+<tspan x="100" dy="0">violencia y convivencia</tspan>
+</text>
+<circle cx="72" cy="626" r="17" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<text x="72" y="635" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="72" dy="0">+</tspan>
+</text>
+<text x="100" y="632" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222" font-weight="400" text-anchor="start" >
+<tspan x="100" dy="0">salud comunitaria</tspan>
+</text>
+<path d="M57 674 L87 674 L72 663 Z" fill="#0B4EA2"/>
+<rect x="63" y="674" width="18" height="16" rx="2" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1" class=""/>
+<text x="100" y="688" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222" font-weight="400" text-anchor="start" >
+<tspan x="100" dy="0">desigualdad educativa</tspan>
+</text>
+<line x1="322" y1="445" x2="339" y2="445" stroke="#0B4EA2" stroke-width="8" stroke-linecap="round"/>
+<polygon points="355,445 333,431 333,459" fill="#0B4EA2"/>
+<rect x="365" y="180" width="315" height="540" rx="18" fill="#FFFFFF" stroke="#7CB342" stroke-width="2.3" opacity="1" class=""/>
+<circle cx="522.5" cy="179" r="27" fill="#6DAA2C" stroke="white" stroke-width="4" opacity="1"/>
+<text x="522.5" y="188" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="522.5" dy="0">2</tspan>
+</text>
+<text x="522.5" y="235" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#2F7A1F" font-weight="800" text-anchor="middle" >
+<tspan x="522.5" dy="0">Fuentes de saber</tspan>
+</text>
+<rect x="379" y="268" width="287" height="100" rx="12" fill="#F1FAE9" stroke="#4E9A28" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="409" cy="318" r="21" fill="#4E9A28" stroke="none" stroke-width="1" opacity="1"/>
+<text x="409" y="327" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="409" dy="0">A</tspan>
+</text>
+<path d="M 457.8 334.2 L 484.8 334.2" stroke="#4E9A28" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 463.2 328.8 L 472.2 301.8" stroke="#4E9A28" stroke-width="6" stroke-linecap="round"/>
+<rect x="467.7" y="291.0" width="9.9" height="23.400000000000002" rx="2.7" transform="rotate(22 472.2 302.7)" fill="#4E9A28"/>
+<circle cx="478.5" cy="319.8" r="7.2" fill="none" stroke="#4E9A28" stroke-width="4" opacity="1"/>
+<text x="507" y="303" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#4E9A28" font-weight="800" text-anchor="start" >
+<tspan x="507" dy="0">Científicas</tspan>
+</text>
+<text x="507" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="507" dy="0">investigación, diagnóstico,</tspan>
+<tspan x="507" dy="16.25">análisis de datos</tspan>
+</text>
+<rect x="379" y="386" width="287" height="100" rx="12" fill="#EAF4FF" stroke="#0B4EA2" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="409" cy="436" r="21" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<text x="409" y="445" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="409" dy="0">B</tspan>
+</text>
+<rect x="443.4" y="418.0" width="43.2" height="30.6" rx="4" fill="none" stroke="#0B4EA2" stroke-width="4" opacity="1" class=""/>
+<line x1="457.8" y1="455.8" x2="472.2" y2="455.8" stroke="#0B4EA2" stroke-width="5" opacity="1"/>
+<line x1="465" y1="449.5" x2="465" y2="456.7" stroke="#0B4EA2" stroke-width="5" opacity="1"/>
+<path d="M 472.2 431.5 m -8 0 a 8 8 0 1 0 16 0 a 8 8 0 1 0 -16 0" fill="none" stroke="#0B4EA2" stroke-width="3"/>
+<text x="507" y="421" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#0B4EA2" font-weight="800" text-anchor="start" >
+<tspan x="507" dy="0">Tecnológicas</tspan>
+</text>
+<text x="507" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="507" dy="0">apps, plataformas,</tspan>
+<tspan x="507" dy="16.25">prototipos, herramientas</tspan>
+<tspan x="507" dy="16.25">digitales</tspan>
+</text>
+<rect x="379" y="504" width="287" height="100" rx="12" fill="#FFF2E4" stroke="#F57C00" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="409" cy="554" r="21" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<text x="409" y="563" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="409" dy="0">C</tspan>
+</text>
+<path d="M 439.8 555.8 C 439.8 534.2,458.7 521.6,479.4 532.4 C 495.6 540.5,492.0 560.3,475.8 561.2 C 467.7 561.2,468.6 574.7,456.0 573.8 C 445.2 572.9,439.8 564.8,439.8 555.8 Z" fill="#F57C00"/>
+<circle cx="456.0" cy="540.5" r="3.15" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="469.5" cy="536.0" r="3.15" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="478.5" cy="548.6" r="3.15" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="453.3" cy="555.8" r="3.15" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<text x="507" y="539" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#F57C00" font-weight="800" text-anchor="start" >
+<tspan x="507" dy="0">Artísticas</tspan>
+</text>
+<text x="507" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="507" dy="0">murales, teatro,</tspan>
+<tspan x="507" dy="16.25">fotografía, campañas</tspan>
+<tspan x="507" dy="16.25">creativas</tspan>
+</text>
+<rect x="379" y="622" width="287" height="100" rx="12" fill="#F5EFFC" stroke="#6E3DA8" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="409" cy="672" r="21" fill="#6E3DA8" stroke="none" stroke-width="1" opacity="1"/>
+<text x="409" y="681" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="409" dy="0">D</tspan>
+</text>
+<path d="M 438.0 652.2 Q 456.0 645.0 465 657.6 Q 474.0 645.0 492.0 652.2 L 492.0 691.8 Q 474.0 684.6 465 695.4 Q 456.0 684.6 438.0 691.8 Z" fill="none" stroke="#6E3DA8" stroke-width="5" stroke-linejoin="round"/>
+<line x1="465" y1="658.5" x2="465" y2="693.6" stroke="#6E3DA8" stroke-width="4" opacity="1"/>
+<text x="507" y="657" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6E3DA8" font-weight="800" text-anchor="start" >
+<tspan x="507" dy="0">Humanísticas</tspan>
+</text>
+<text x="507" y="684" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="507" dy="0">ética, derechos humanos,</tspan>
+<tspan x="507" dy="16.25">historia, reflexión crítica</tspan>
+</text>
+<line x1="687" y1="445" x2="696" y2="445" stroke="#0B4EA2" stroke-width="8" stroke-linecap="round"/>
+<polygon points="712,445 690,431 690,459" fill="#0B4EA2"/>
+<rect x="720" y="180" width="300" height="540" rx="18" fill="#FFFFFF" stroke="#F57C00" stroke-width="2.3" opacity="1" class=""/>
+<circle cx="870.0" cy="179" r="27" fill="#F57C00" stroke="white" stroke-width="4" opacity="1"/>
+<text x="870.0" y="188" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="870.0" dy="0">3</tspan>
+</text>
+<text x="870.0" y="225" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#C85200" font-weight="800" text-anchor="middle" >
+<tspan x="870.0" dy="0">Integración y</tspan>
+<tspan x="870.0" dy="30.800000000000004">acción RSU</tspan>
+</text>
+<circle cx="870.0" cy="440" r="108" fill="#FFF9F1" stroke="#F57C00" stroke-width="2" opacity="1"/>
+<path d="M 870.0 440 L 765.00 440.00 A 105 105 0 0 1 870.00 335.00 Z" fill="#4E9A28"/>
+<path d="M 870.0 440 L 870.00 335.00 A 105 105 0 0 1 975.00 440.00 Z" fill="#2F8ED8"/>
+<path d="M 870.0 440 L 975.00 440.00 A 105 105 0 0 1 870.00 545.00 Z" fill="#6E3DA8"/>
+<path d="M 870.0 440 L 870.00 545.00 A 105 105 0 0 1 765.00 440.00 Z" fill="#F57C00"/>
+<line x1="765.0" y1="440" x2="975.0" y2="440" stroke="white" stroke-width="6" opacity="1"/>
+<line x1="870.0" y1="335" x2="870.0" y2="545" stroke="white" stroke-width="6" opacity="1"/>
+<circle cx="870.0" cy="440" r="38" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="870.0" cy="434.0" r="7.0" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 857.0 456.0 Q 870.0 439.0 883.0 456.0 Z" fill="#0B4EA2"/>
+<circle cx="852.0" cy="440.0" r="5.6000000000000005" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 841.6 457.6 Q 852.0 444.0 862.4 457.6 Z" fill="#0B4EA2"/>
+<circle cx="888.0" cy="440.0" r="5.6000000000000005" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 877.6 457.6 Q 888.0 444.0 898.4 457.6 Z" fill="#0B4EA2"/>
+<path d="M 815.2 400.8 L 833.2 400.8" stroke="white" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 818.8 397.2 L 824.8 379.2" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<rect x="821.8" y="372.0" width="6.6" height="15.6" rx="1.7999999999999998" transform="rotate(22 824.8 379.8)" fill="white"/>
+<circle cx="829.0" cy="391.2" r="4.8" fill="none" stroke="white" stroke-width="4" opacity="1"/>
+<rect x="905.6" y="378.0" width="28.799999999999997" height="20.4" rx="4" fill="none" stroke="white" stroke-width="4" opacity="1" class=""/>
+<line x1="915.2" y1="403.2" x2="924.8" y2="403.2" stroke="white" stroke-width="5" opacity="1"/>
+<line x1="920.0" y1="399.0" x2="920.0" y2="403.8" stroke="white" stroke-width="5" opacity="1"/>
+<path d="M 924.8 387.0 m -8 0 a 8 8 0 1 0 16 0 a 8 8 0 1 0 -16 0" fill="none" stroke="white" stroke-width="3"/>
+<path d="M 804.6 491.1 C 804.6 477.9,816.15 470.2,828.8 476.8 C 838.7 481.75,836.5 493.85,826.6 494.4 C 821.65 494.4,822.2 502.65,814.5 502.1 C 807.9 501.55,804.6 496.6,804.6 491.1 Z" fill="white"/>
+<circle cx="814.5" cy="481.75" r="1.9250000000000003" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="822.75" cy="479.0" r="1.9250000000000003" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="828.25" cy="486.7" r="1.9250000000000003" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="812.85" cy="491.1" r="1.9250000000000003" fill="#FFFFFF" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 903.5 477.9 Q 914.5 473.5 920.0 481.2 Q 925.5 473.5 936.5 477.9 L 936.5 502.1 Q 925.5 497.7 920.0 504.3 Q 914.5 497.7 903.5 502.1 Z" fill="none" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+<line x1="920.0" y1="481.75" x2="920.0" y2="503.2" stroke="white" stroke-width="4" opacity="1"/>
+<rect x="738" y="535" width="264" height="54" rx="10" fill="#FFF6ED" stroke="#F57C00" stroke-width="1.5" opacity="1" class=""/>
+<text x="870.0" y="558" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111" font-weight="700" text-anchor="middle" >
+<tspan x="870.0" dy="0">Docencia + investigación +</tspan>
+<tspan x="870.0" dy="20.7">vinculación + participación social</tspan>
+</text>
+<line x1="748" y1="610" x2="992" y2="610" stroke="#F57C00" stroke-width="2" opacity="1" stroke-dasharray="3 5"/>
+<circle cx="767" cy="665" r="22" fill="#F4FAFF" stroke="#0B4EA2" stroke-width="2" opacity="1"/>
+<path d="M756 667 Q768 652 780 667 M760 674 L783 654" stroke="#0B4EA2" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="802" y="648" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="802" dy="0">Se diseñan proyectos con</tspan>
+<tspan x="802" dy="19.84">sentido ético, interdisciplinario</tspan>
+<tspan x="802" dy="19.84">y participativo.</tspan>
+</text>
+<line x1="1026" y1="445" x2="1044" y2="445" stroke="#0B4EA2" stroke-width="8" stroke-linecap="round"/>
+<polygon points="1060,445 1038,431 1038,459" fill="#0B4EA2"/>
+<rect x="1068" y="180" width="305" height="540" rx="18" fill="#FFFFFF" stroke="#6E3DA8" stroke-width="2.3" opacity="1" class=""/>
+<circle cx="1220.5" cy="179" r="27" fill="#6E3DA8" stroke="white" stroke-width="4" opacity="1"/>
+<text x="1220.5" y="188" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="1220.5" dy="0">4</tspan>
+</text>
+<text x="1220.5" y="228" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#6E3DA8" font-weight="800" text-anchor="middle" >
+<tspan x="1220.5" dy="0">Ejemplos de aplicación</tspan>
+</text>
+<rect x="1082" y="260" width="277" height="104" rx="12" fill="#F1FAE9" stroke="#4E9A28" stroke-width="1.4" opacity="1" class=""/>
+<circle cx="1118" cy="312" r="32" fill="#F6FFF2" stroke="#4E9A28" stroke-width="2" opacity="1"/>
+<path d="M 1094.0 326.0 Q 1110.0 342.0 1124.4 326.0" fill="none" stroke="#4E9A28" stroke-width="6" stroke-linecap="round"/>
+<path d="M 1113.2 320.4 C 1102.0 306.0,1114.8 292.4,1126.0 298.0 C 1135.6 308.4,1125.2 318.8,1113.2 320.4 Z" fill="#4E9A28"/>
+<line x1="1115.6" y1="318" x2="1127.6" y2="302.0" stroke="#079AA0" stroke-width="2" opacity="1"/>
+<text x="1163" y="288" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4E9A28" font-weight="800" text-anchor="start" >
+<tspan x="1163" dy="0">Proyecto ambiental:</tspan>
+</text>
+<text x="1163" y="310" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="1163" dy="0">análisis científico de residuos</tspan>
+<tspan x="1163" dy="12.075000000000001">+ app de reciclaje + mural de</tspan>
+<tspan x="1163" dy="12.075000000000001">sensibilización + talleres de</tspan>
+<tspan x="1163" dy="12.075000000000001">ciudadanía ambiental</tspan>
+</text>
+<rect x="1082" y="376" width="277" height="104" rx="12" fill="#EAF4FF" stroke="#0B4EA2" stroke-width="1.4" opacity="1" class=""/>
+<circle cx="1118" cy="428" r="32" fill="#0B4EA2" stroke="none" stroke-width="1" opacity="1"/>
+<text x="1118" y="440" font-family="Arial, Helvetica, sans-serif" font-size="45" fill="white" font-weight="800" text-anchor="middle" >
+<tspan x="1118" dy="0">+</tspan>
+</text>
+<text x="1163" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#0B4EA2" font-weight="800" text-anchor="start" >
+<tspan x="1163" dy="0">Salud comunitaria:</tspan>
+</text>
+<text x="1163" y="426" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="1163" dy="0">diagnóstico de hábitos +</tspan>
+<tspan x="1163" dy="12.075000000000001">material digital + campaña</tspan>
+<tspan x="1163" dy="12.075000000000001">gráfica + reflexión sobre</tspan>
+<tspan x="1163" dy="12.075000000000001">derecho a la salud</tspan>
+</text>
+<rect x="1082" y="492" width="277" height="104" rx="12" fill="#FFF2E4" stroke="#F57C00" stroke-width="1.4" opacity="1" class=""/>
+<circle cx="1110" cy="544" r="24" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1130" cy="542" r="22" fill="#F57C00" stroke="none" stroke-width="1" opacity="0.8"/>
+<text x="1110" y="552" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="1110" dy="0">⌣</tspan>
+</text>
+<text x="1130" y="548" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="white" font-weight="700" text-anchor="middle" >
+<tspan x="1130" dy="0">⌢</tspan>
+</text>
+<text x="1163" y="520" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F57C00" font-weight="800" text-anchor="start" >
+<tspan x="1163" dy="0">Prevención de violencia:</tspan>
+</text>
+<text x="1163" y="542" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="1163" dy="0">datos sobre convivencia +</tspan>
+<tspan x="1163" dy="12.075000000000001">plataforma de apoyo +</tspan>
+<tspan x="1163" dy="12.075000000000001">teatro foro + enfoque de</tspan>
+<tspan x="1163" dy="12.075000000000001">derechos humanos</tspan>
+</text>
+<rect x="1082" y="608" width="277" height="104" rx="12" fill="#F5EFFC" stroke="#6E3DA8" stroke-width="1.4" opacity="1" class=""/>
+<circle cx="1118" cy="660" r="32" fill="#FAF6FF" stroke="#6E3DA8" stroke-width="2" opacity="1"/>
+<path d="M 1100.0 647.8 Q 1112.0 643.0 1118 651.4 Q 1124.0 643.0 1136.0 647.8 L 1136.0 674.2 Q 1124.0 669.4 1118 676.6 Q 1112.0 669.4 1100.0 674.2 Z" fill="none" stroke="#6E3DA8" stroke-width="5" stroke-linejoin="round"/>
+<line x1="1118" y1="652.0" x2="1118" y2="675.4" stroke="#6E3DA8" stroke-width="4" opacity="1"/>
+<text x="1163" y="636" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6E3DA8" font-weight="800" text-anchor="start" >
+<tspan x="1163" dy="0">Inclusión educativa:</tspan>
+</text>
+<text x="1163" y="658" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#111" font-weight="400" text-anchor="start" >
+<tspan x="1163" dy="0">evaluación de barreras +</tspan>
+<tspan x="1163" dy="12.075000000000001">recursos tecnológicos</tspan>
+<tspan x="1163" dy="12.075000000000001">accesibles + narrativas</tspan>
+<tspan x="1163" dy="12.075000000000001">visuales + perspectiva</tspan>
+<tspan x="1163" dy="12.075000000000001">ética e intercultural</tspan>
+</text>
+<rect x="1392" y="172" width="250" height="602" rx="18" fill="#FFFFFF" stroke="#079AA0" stroke-width="2.5" opacity="1" class=""/>
+<text x="1517.0" y="224" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#079AA0" font-weight="800" text-anchor="middle" >
+<tspan x="1517.0" dy="0">Claves de la RSU</tspan>
+</text>
+<circle cx="1447" cy="292" r="31" fill="#079AA0" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M1442 277 C1427 287,1435 311,1447 301 C1455 294,1457 279,1444 278" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<line x1="1464" y1="280" x2="1476" y2="272" stroke="white" stroke-width="3" opacity="1"/>
+<line x1="1466" y1="292" x2="1480" y2="292" stroke="white" stroke-width="3" opacity="1"/>
+<line x1="1464" y1="304" x2="1476" y2="312" stroke="white" stroke-width="3" opacity="1"/>
+<text x="1490" y="279" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1490" dy="0">escucha</tspan>
+<tspan x="1490" dy="21.25">del entorno</tspan>
+</text>
+<line x1="1422" y1="340" x2="1612" y2="340" stroke="#079AA0" stroke-width="1.6" opacity="0.7" stroke-dasharray="3 5"/>
+<circle cx="1447" cy="390" r="31" fill="#079AA0" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M1429 382 Q1447 365 1467 381 Q1476 397 1454 405 L1440 414 L1442 404 Q1427 398 1429 382 Z" fill="white"/>
+<text x="1490" y="377" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1490" dy="0">diálogo</tspan>
+<tspan x="1490" dy="21.25">de saberes</tspan>
+</text>
+<line x1="1422" y1="438" x2="1612" y2="438" stroke="#079AA0" stroke-width="1.6" opacity="0.7" stroke-dasharray="3 5"/>
+<circle cx="1447" cy="488" r="31" fill="#079AA0" stroke="none" stroke-width="1" opacity="1"/>
+<circle cx="1447" cy="484.0" r="5.6000000000000005" fill="white" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 1436.6 501.6 Q 1447 488.0 1457.4 501.6 Z" fill="white"/>
+<circle cx="1432.6" cy="488.8" r="4.48" fill="white" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 1424.28 502.88 Q 1432.6 492.0 1440.9199999999998 502.88 Z" fill="white"/>
+<circle cx="1461.4" cy="488.8" r="4.48" fill="white" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 1453.0800000000002 502.88 Q 1461.4 492.0 1469.72 502.88 Z" fill="white"/>
+<circle cx="1447" cy="488" r="28" fill="none" stroke="white" stroke-width="2" opacity="0.7"/>
+<text x="1490" y="475" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1490" dy="0">trabajo</tspan>
+<tspan x="1490" dy="21.25">interdisciplinario</tspan>
+</text>
+<line x1="1422" y1="536" x2="1612" y2="536" stroke="#079AA0" stroke-width="1.6" opacity="0.7" stroke-dasharray="3 5"/>
+<circle cx="1447" cy="586" r="31" fill="#079AA0" stroke="none" stroke-width="1" opacity="1"/>
+<line x1="1447" y1="566" x2="1447" y2="608" stroke="white" stroke-width="4" opacity="1"/>
+<line x1="1427" y1="578" x2="1467" y2="578" stroke="white" stroke-width="4" opacity="1"/>
+<path d="M1427 578 L1419 596 L1435 596 Z M1467 578 L1459 596 L1475 596 Z" fill="none" stroke="white" stroke-width="4"/>
+<text x="1490" y="573" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1490" dy="0">responsabilidad</tspan>
+<tspan x="1490" dy="21.25">ética</tspan>
+</text>
+<line x1="1422" y1="634" x2="1612" y2="634" stroke="#079AA0" stroke-width="1.6" opacity="0.7" stroke-dasharray="3 5"/>
+<circle cx="1447" cy="684" r="31" fill="#079AA0" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 1427.5 695.5 Q 1440.5 708.5 1452.2 695.5" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M 1443.1 690.95 C 1434.0 679.25,1444.4 668.2,1453.5 672.75 C 1461.3 681.2,1452.85 689.65,1443.1 690.95 Z" fill="white"/>
+<line x1="1445.05" y1="689" x2="1454.8" y2="676.0" stroke="#079AA0" stroke-width="2" opacity="1"/>
+<text x="1490" y="671" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1490" dy="0">transformación</tspan>
+<tspan x="1490" dy="21.25">social</tspan>
+</text>
+<text x="836.0" y="786" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#0B4EA2" font-weight="800" text-anchor="middle" >
+<tspan x="836.0" dy="0">Resultados esperados</tspan>
+</text>
+<line x1="195" y1="774" x2="626.0" y2="774" stroke="#0B4EA2" stroke-width="2" opacity="1"/>
+<line x1="1046.0" y1="774" x2="1285" y2="774" stroke="#0B4EA2" stroke-width="2" opacity="1"/>
+<rect x="185" y="792" width="1110" height="116" rx="16" fill="#FFFFFF" stroke="#0B4EA2" stroke-width="2" opacity="1" class=""/>
+<rect x="210.0" y="814" width="227.5" height="66" rx="12" fill="#F4FFF0" stroke="#4E9A28" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="257.0" cy="847" r="30" fill="white" stroke="#4E9A28" stroke-width="2" opacity="1"/>
+<circle cx="257.0" cy="847" r="22" fill="none" stroke="#4E9A28" stroke-width="5" opacity="1"/>
+<circle cx="257.0" cy="847" r="9" fill="#4E9A28" stroke="none" stroke-width="1" opacity="1"/>
+<line x1="257.0" y1="847" x2="279.0" y2="826" stroke="#4E9A28" stroke-width="4" opacity="1"/>
+<text x="308.0" y="838" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="308.0" dy="0">soluciones</tspan>
+<tspan x="308.0" dy="20.0">pertinentes</tspan>
+</text>
+<rect x="487.5" y="814" width="227.5" height="66" rx="12" fill="#F4FAFF" stroke="#0B4EA2" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="534.5" cy="847" r="30" fill="white" stroke="#0B4EA2" stroke-width="2" opacity="1"/>
+<path d="M 521.0 841.1 Q 530.0 837.5 534.5 843.8 Q 539.0 837.5 548.0 841.1 L 548.0 860.9 Q 539.0 857.3 534.5 862.7 Q 530.0 857.3 521.0 860.9 Z" fill="none" stroke="#0B4EA2" stroke-width="5" stroke-linejoin="round"/>
+<line x1="534.5" y1="844.25" x2="534.5" y2="861.8" stroke="#0B4EA2" stroke-width="4" opacity="1"/>
+<path d="M534.5 828 l0 -12 M523.5 832 l-8 -8 M545.5 832 l8 -8" stroke="#0B4EA2" stroke-width="3"/>
+<text x="585.5" y="838" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="585.5" dy="0">aprendizaje</tspan>
+<tspan x="585.5" dy="20.0">con sentido social</tspan>
+</text>
+<line x1="462.5" y1="820" x2="462.5" y2="880" stroke="#92B3DD" stroke-width="1.6" opacity="1" stroke-dasharray="4 6"/>
+<rect x="765.0" y="814" width="227.5" height="66" rx="12" fill="#FFF6EC" stroke="#F57C00" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="812.0" cy="847" r="30" fill="white" stroke="#F57C00" stroke-width="2" opacity="1"/>
+<circle cx="812.0" cy="845.5" r="5.25" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 802.25 862.0 Q 812.0 849.25 821.75 862.0 Z" fill="#F57C00"/>
+<circle cx="798.5" cy="850.0" r="4.200000000000001" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 790.7 863.2 Q 798.5 853.0 806.3 863.2 Z" fill="#F57C00"/>
+<circle cx="825.5" cy="850.0" r="4.200000000000001" fill="#F57C00" stroke="none" stroke-width="1" opacity="1"/>
+<path d="M 817.7 863.2 Q 825.5 853.0 833.3 863.2 Z" fill="#F57C00"/>
+<text x="863.0" y="838" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="863.0" dy="0">participación</tspan>
+<tspan x="863.0" dy="20.0">comunitaria</tspan>
+</text>
+<line x1="740.0" y1="820" x2="740.0" y2="880" stroke="#92B3DD" stroke-width="1.6" opacity="1" stroke-dasharray="4 6"/>
+<rect x="1042.5" y="814" width="227.5" height="66" rx="12" fill="#FAF6FF" stroke="#6E3DA8" stroke-width="1.2" opacity="1" class=""/>
+<circle cx="1089.5" cy="847" r="30" fill="white" stroke="#6E3DA8" stroke-width="2" opacity="1"/>
+<circle cx="1089.5" cy="839" r="15" fill="none" stroke="#6E3DA8" stroke-width="3" opacity="1"/>
+<path d="M 1076.0 866.5 Q 1085.0 875.5 1093.1 866.5" fill="none" stroke="#6E3DA8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 1086.8 863.35 C 1080.5 855.25,1087.7 847.6,1094.0 850.75 C 1099.4 856.6,1093.55 862.45,1086.8 863.35 Z" fill="#6E3DA8"/>
+<line x1="1088.15" y1="862" x2="1094.9" y2="853.0" stroke="#079AA0" stroke-width="2" opacity="1"/>
+<text x="1140.5" y="838" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111" font-weight="700" text-anchor="start" >
+<tspan x="1140.5" dy="0">bien común,</tspan>
+<tspan x="1140.5" dy="20.0">equidad y</tspan>
+<tspan x="1140.5" dy="20.0">sostenibilidad</tspan>
+</text>
+<line x1="1017.5" y1="820" x2="1017.5" y2="880" stroke="#92B3DD" stroke-width="1.6" opacity="1" stroke-dasharray="4 6"/>
+</svg>
