@@ -1608,10 +1608,10 @@ div.botones-item img {
     width: 60%;
 }
 .pregunta{
-	align: center;
+	text-align: center;
 }
 .lista{
-	margin-left:10%;
+	margin-left:5%;
 }
 
 
